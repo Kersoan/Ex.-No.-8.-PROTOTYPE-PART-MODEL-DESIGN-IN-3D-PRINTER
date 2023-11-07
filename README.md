@@ -1,6 +1,5 @@
-# Ex. No. 8 - PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
+# Ex--08--PROTOTYPE PART MODEL DESIGN IN 3D PRINTER
 
-### DATE: 03.10.2023
 ## AIM: 
 ### To prototype the given part model design in 3D Printer.
 
@@ -9,6 +8,10 @@
 ### ●	CURA 4.0 Software.
 ### ●	Autodesk Fusion 360 Software.
 ### ●	System - Windows 7 or higher, 1 GB RAM.
+```
+Name: Kersoan P
+Register Number: 212221230050
+```
 
 ## PROCEDURE:
 
@@ -48,8 +51,7 @@
 ## Output:
 ![8](https://github.com/Aakash0407/Ex.-No.-8.-PROTOTYPE-PART-MODEL-DESIGN-IN-3D-PRINTER/assets/118799103/759f3b2b-35aa-45fa-9952-c607a084b3a3)
 
-### Name: BEJIN B
-### Register Number: 212222230021
+
 
 ## RESULT:
 ###   Thus a prototype of the given part model is developed using 3D Printer.
